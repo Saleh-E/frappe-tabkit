@@ -109,6 +109,6 @@ Layout is code. Treat it like code.
 
 MIT — © Saleh Amin ([linkedin.com/in/salehamin-hassan](https://www.linkedin.com/in/salehamin-hassan/))
 
-Built while shipping [ehgzli.com](https://ehgzli.com) (multi-tenant healthcare
+Built while shipping [jirsi.com](https://jirsi.com) (multi-tenant healthcare
 SaaS on Frappe) and a complete maritime-operations platform — both of which
 follow one golden rule: *the custom app extends; core stays pristine.*
